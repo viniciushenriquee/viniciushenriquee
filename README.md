@@ -7,7 +7,7 @@ Estudante de sistemas de informação
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciushenriquee&ine_height=25&hide=issues&bg_color=000&title_color=00BFFF&text_color=FFF&border_radius=3&border_color=fff&icon_color=00BFFF&theme=jolly&layout=compact"/>
 </div>
 
-<div align="center"> 
+<div align=> 
 <a href="https://www.linkedin.com/in/vin%C3%ADciushenriquee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> </div>
 
 ### Estudando no momento:
