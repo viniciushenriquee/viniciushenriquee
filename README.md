@@ -9,9 +9,9 @@ Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código 
 ---
 
 <div align=center>
-  <a href="https://github.com/SilasPires">
+  <a href="https://github.com/vinicushenriquee">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=viniciushenriquee&show_icons=true&theme=transparent"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=transparent"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushenriquee&layout=compact&show_icons=true&theme=transparent"/>
 </div>
 
 ---
