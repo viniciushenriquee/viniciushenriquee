@@ -46,4 +46,4 @@ Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código 
 
 ---
 
-<div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
+<div align="center">![Snake animation](https://github.com/viniciushenriquee/viniciushenriquee/blob/output/github-contribution-grid-snake.svg)</div>
