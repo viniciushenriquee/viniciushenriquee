@@ -8,19 +8,10 @@ Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código 
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img 
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=Viniciushenriquee&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&border_color=FFFFFF&icon_color=00BFFF&border_radius=5&theme=jolly"
-    alt="GitHub Stats"
-  />
-  <img 
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciushenriquee&layout=compact&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&border_color=FFFFFF&icon_color=00BFFF&border_radius=5&theme=jolly"
-    alt="Top Languages"
-  />
+<div align=center>
+  <a href="https://github.com/SilasPires">
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=silaspires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaspires&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ---
@@ -46,4 +37,8 @@ Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código 
 
 ---
 
-[svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/viniciushenriquee/viniciushenriquee/output/snake.svg" alt="Snake animation" />
+  
+</div>
