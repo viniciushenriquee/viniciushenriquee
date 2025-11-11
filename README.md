@@ -46,4 +46,4 @@ Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código 
 
 ---
 
-<div align="center">![Snake animation](https://github.com/viniciushenriquee/viniciushenriquee/blob/output/github-contribution-grid-snake.svg)</div>
+[svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
