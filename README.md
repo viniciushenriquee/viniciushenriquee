@@ -1,36 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Oii!+Eu+sou+o+Vinícius+Henrique;Estudante+de+Tecnologia+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00BFFF&width=435&lines=Oii!+Eu+sou+o+Vinícius+Henrique;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Futuro+Desenvolvedor+Backend+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+
+## 👨‍💻 Sobre mim
+Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia.  
+Gosto de aprender, resolver problemas e entender como as coisas funcionam por trás dos sistemas.  
+Atualmente focado em **Java**, **Banco de Dados** e **desenvolvimento backend**.
+
+Busco evoluir um pouco todos os dias enquanto construo projetos para praticar e fortalecer minha base técnica.
 
 ---
 
-### 👨‍💻 Sobre Mim  
-Sou **estudante de Sistemas de Informação** apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
-Gosto de explorar linguagens, ferramentas e boas práticas que tornem o código mais limpo e eficiente. 🚀  
+## 🚀 Tecnologias que estou estudando
+<div style="display: inline_block"><br>
+
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo  
+## 🧩 Projetos em construção
+- **Sistema de Controle de Estoque — Java + MySQL**  
+  CRUD simples, conexão JDBC e padrão DAO.  
+  > Em breve disponível no repositório.
+
+- **Aplicação de estudos em JavaScript**  
+  Praticando lógica, DOM e funções.  
+
+(Quando você subir o projeto real, eu atualizo com links.)
+
+---
+
+## 🌐 Conecte-se comigo
 <div align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADciushenriquee/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/viniciushenriquee/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
-### 📘 Estudando no momento
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
-</div>
+<div align="center">
 
----
+  
+<img src="https://raw.githubusercontent.com/viniciushenriquee/viniciushenriquee/output/snake.svg" alt="Snake animation" />
 
-<div align=center>
-  
- <img src="https://raw.githubusercontent.com/viniciushenriquee/viniciushenriquee/output/snake.svg" alt="Snake animation" />
-  
 </div>
