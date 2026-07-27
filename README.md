@@ -32,8 +32,6 @@ Busco evoluir um pouco todos os dias enquanto construo projetos para praticar e 
 - **Aplicação de estudos em JavaScript**  
   Praticando lógica, DOM e funções.  
 
-(Quando você subir o projeto real, eu atualizo com links.)
-
 ---
 
 ## 🌐 Conecte-se comigo
